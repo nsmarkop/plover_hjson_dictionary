@@ -30,7 +30,7 @@ JSON:
 
 Hjson:
 
-```hjson
+```yaml
 {
   Plover: # A cool open source project
   [

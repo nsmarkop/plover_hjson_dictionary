@@ -38,7 +38,7 @@ JSON:
 
 Hjson:
 
-.. code:: hjson
+.. code:: yaml
 
     {
       Plover: # A cool open source project
